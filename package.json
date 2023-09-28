@@ -1,0 +1,11 @@
+{
+  "name": "fundamentos-js-04",
+  "version": "1.0.0",
+  "description": "Ejercicios de Fundamentos de JavaScript - Objetos, clases y métodos.",
+  "keywords": [
+    "javascript",
+    "web development"
+  ],
+  "author": "Alex Muñoz <https://github.com/alexmf91>",
+  "license": "MIT"
+}
