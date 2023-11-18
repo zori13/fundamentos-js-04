@@ -14,7 +14,7 @@ class Square extends Rectangulo{
         super(sideLength,sideLength)
     }
 }
-const rectangulo=new Rectangulo(5,10)
+const rectangulo=new Rectangulo(6,8)
 const square =new Square(8)
 console.log('Area:', rectangulo.calcularArea())
 console.log('Área del cuadrado:', square.calcularArea() )
